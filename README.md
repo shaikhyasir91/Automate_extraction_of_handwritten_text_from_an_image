@@ -1,0 +1,1 @@
+# Automate_extraction_of_handwritten_text_from_an_image
