@@ -1,4 +1,4 @@
-# Automate_extraction_of_handwritten_text_from_an_image
+# Automate Extraction of Handwritten Text From an Image
 
 Handwritten text recognition is an essential component of various applications, such as digitizing historical documents, automated form processing, and assisting visually impaired individuals with text-to-speech conversions. This project focuses on developing an advanced deep learning model to automate the extraction of handwritten text from images.
 
